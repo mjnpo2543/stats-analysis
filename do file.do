@@ -1,4 +1,4 @@
-use "C:\Users\mjnpo\Documents\dataset\UKDA-9500-stata\stata\stata13\EC124-Group022-3.dta", clear
+use "....", clear
 * load in the dataset according to your own file directory 
 
 
