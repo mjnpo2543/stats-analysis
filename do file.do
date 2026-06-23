@@ -1,4 +1,4 @@
-use ""C:\Users\mjnpo\Documents\dataset\UKDA-9500-stata\stata\stata13\apsp_o24s25_eul_pwta22.dta.dta"", clear
+use "C:\Users\mjnpo\Documents\dataset\UKDA-9500-stata\stata\stata13\apsp_o24s25_eul_pwta22.dta.dta", clear
 * load in the dataset according to your own file directory 
 
 
